@@ -47,6 +47,7 @@
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Script\Test.cs" />
+     <Compile Include="Assets\Test\MainMapShake.cs" />
      <None Include="Assets\plugins\DOTween\readme.txt" />
      <None Include="Assets\plugins\DOTween\DOTween50.xml" />
      <None Include="Assets\plugins\DOTween\DOTween43.xml" />
